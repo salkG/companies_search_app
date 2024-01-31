@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/*.md": true,
+        "**/devtools_options.yaml": true,
+        "**/*.metadata": true,
+        "**/*.flutter-plugins": true,
+        "**/*.flutter-plugins-dependencies": true,
+        "**/.gitlab-ci.yml": true,
+        "**/.gitmodules": true,
+        "**/analysis_options.yaml": true,
+        "**/.gitignore": true,
+        "**/libisar.dylib": true,
+        "**/pubspec.lock": true,
+        "**/.dart_tool": true,
+        "**/.idea": true,
+    }
+}

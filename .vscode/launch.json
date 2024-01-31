@@ -1,0 +1,125 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "companies_search_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "companies_search_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "companies_search_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "data",
+            "cwd": "packages/data",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "data (profile mode)",
+            "cwd": "packages/data",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "data (release mode)",
+            "cwd": "packages/data",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "domain",
+            "cwd": "packages/domain",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "domain (profile mode)",
+            "cwd": "packages/domain",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "domain (release mode)",
+            "cwd": "packages/domain",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ui_kit",
+            "cwd": "packages/ui_kit",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ui_kit (profile mode)",
+            "cwd": "packages/ui_kit",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ui_kit (release mode)",
+            "cwd": "packages/ui_kit",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "local_storage",
+            "cwd": "packages/domain/packages/local_storage",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "local_storage (profile mode)",
+            "cwd": "packages/domain/packages/local_storage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "local_storage (release mode)",
+            "cwd": "packages/domain/packages/local_storage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "network",
+            "cwd": "packages/domain/packages/network",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "network (profile mode)",
+            "cwd": "packages/domain/packages/network",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "network (release mode)",
+            "cwd": "packages/domain/packages/network",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
